@@ -37,7 +37,6 @@ Table of Contents
       * [Cryptographic Parameters](#cryptographic-parameters)
       * [Packet Structure](#packet-structure)
    * [Lessons Learned](#lessons-learned)
-   * [Files in This Repository](#files-in-this-repository)
    * [Disclosure Timeline](#disclosure-timeline)
       * [First, and last attempt to report another security issue in your flagship G1, and Go2, and other bots](#first-and-last-attempt-to-report-another-security-issue-in-your-flagship-g1-and-go2-and-other-bots)
    * [Disclaimer](#disclaimer)
