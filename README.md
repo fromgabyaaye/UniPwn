@@ -354,7 +354,7 @@ Remember: With great power comes great responsibility. Use this knowledge to bui
 If you find additional issues or improvements, please feel free to submit a pull request or open an issue.
 
 ## Licensing, and access to these files
-These STEP files are released with Creative Commons [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) licensing. 
+These files are released with Creative Commons [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) licensing. 
 <p align="left">
   <img src="https://raw.githubusercontent.com/Bin4ry/UniPwn/refs/heads/main/images/ccbysancsa.png">
 </p>
