@@ -7,6 +7,8 @@
 **Co-Author:** h0stile aka Kevin Finisterre
 **Date:** September 20, 2025  
 
+**Thanks:** Big thank you to Konstantin Severov from theroboverse for helping to creating and proving the PoC :) thanks dude!
+
 Table of Contents
 =================
 
