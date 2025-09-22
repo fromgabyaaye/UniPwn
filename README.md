@@ -192,7 +192,7 @@ An infected robot can simply scan for other Unitree robots in BLE range and auto
 We developed a complete proof-of-concept exploit framework that demonstrates this vulnerability. The exploit includes:
 
 - Python-based BLE scanner and exploit framework
-- Web-based interface for easy exploitation
+- Android APK (previously shared on Sep 5, 2025 in Slack channel to testers via PWD protected zip)
 - Multiple predefined payloads (SSH enablement, system reboot, custom commands)
 - Support for all affected robot models (Go2, G1, H1, B2, X1)
 
@@ -207,6 +207,8 @@ def build_pwn(cmd):
     return f'";$({cmd});#'
 
 ```
+![Android App](images/Slack_September5.png)
+
 
 ## Real-World Deployment & Impact
 
