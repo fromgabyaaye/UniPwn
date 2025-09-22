@@ -209,6 +209,7 @@ def build_pwn(cmd):
 ```
 ![Android App](images/Slack_September5.png)
 
+### Please notice, a full reboot of the robot might take 10-15 seconds after the command was send ;) 
 
 ## Real-World Deployment & Impact
 
