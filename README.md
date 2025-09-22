@@ -278,6 +278,9 @@ This research highlights several critical security principles:
 
 We initially attempted responsible disclosure with Unitree regarding this vulnerability:
 
+- **Bug found:** Bug was found at April 14, 2025 by Andreas Makris aka Bin4ry and discussed in Slack DM with Kevin Finisterre and Konstantin Severov.
+![Discovery of Vulnerability](images/Slack_April14.png)
+- **PoC developed:** PoC was developed. (Thanks to Konstantin for helping!!). 
 - **Initial Contact:** Multiple emails were sent to Unitree's security and support channels
 - **Communication Issues:** One of the authors (Andreas Makris) was repeatedly removed from email chains without explanation
 - **No Response:** Unitree showed no meaningful engagement or interest in addressing the security issues
