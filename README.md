@@ -5,9 +5,9 @@
 
 **Author:** Bin4ry aka Andreas Makris [andreas.makris@gmail.com]  
 **Co-Author:** h0stile aka Kevin Finisterre
-**Date:** September 20, 2025  
-
 **Contributor:** Konstantin Severov from [theroboverse](https://theroboverse.com/) helped to fix the payload for the injection and proved it with a fully working PoC :slightly_smiling_face: thanks dude, this was a critical contribution, very much appreciated!
+
+**Date:** September 20, 2025  
 
 Table of Contents
 =================
