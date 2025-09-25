@@ -7,7 +7,7 @@
 **Co-Author:** h0stile aka Kevin Finisterre
 **Date:** September 20, 2025  
 
-**Thanks:** Big thank you to Konstantin Severov from theroboverse for helping to creating and proving the PoC :) thanks dude!
+**Contributor:** Konstantin Severov from [theroboverse](https://theroboverse.com/) helped to fix the payload for the injection and proved it with a fully working PoC :slightly_smiling_face: thanks dude, this was a critical contribution, very much appreciated!
 
 Table of Contents
 =================
@@ -283,7 +283,9 @@ We initially attempted responsible disclosure with Unitree regarding this vulner
 
 - **Bug found:** Bug was found at April 14, 2025 by Andreas Makris aka Bin4ry and discussed in Slack DM with Kevin Finisterre and Konstantin Severov.
 ![Discovery of Vulnerability](images/Slack_April14.png)
-- **PoC developed:** PoC was developed. (Thanks to Konstantin for helping!!). 
+- **PoC developed:** April 25, 2025 Konstantin Severov was able to fix Andreas' wrong payload and craft a correct working payload for the injection. The first PoC was born.
+![Discovery of Vulnerability](images/Slack_April25.png)
+- **Insecure BLE found**: After Konstantin verified the injection vulnerability Andreas found the hardcoded keys and weak authentication for BLE.
 - **Initial Contact:** Multiple emails were sent to Unitree's security and support channels
 - **Communication Issues:** One of the authors (Andreas Makris) was repeatedly removed from email chains without explanation
 - **No Response:** Unitree showed no meaningful engagement or interest in addressing the security issues
