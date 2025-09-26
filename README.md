@@ -143,7 +143,8 @@ The WiFi configuration thread calls either `restart_wifi_ap` or `restart_wifi_st
 
 ## The Vulnerable Function: Command Injection
 
-Both `restart_wifi_ap` and `restart_wifi_sta` functions follow the same vulnerable pattern. Here's the smoking gun:
+Both `restart_wifi_ap` (`hostapd_restart.sh`) and `restart_wifi_sta` (`wpa_supplicant_restart.sh`) functions follow the same vulnerable pattern.  
+Here's the smoking gun (using `restart_wifi_ap` function as an example):
 
 ![Vulnerable function](images/image012.png)
 
@@ -194,7 +195,7 @@ We developed a complete proof-of-concept exploit framework that demonstrates thi
 - Python-based BLE scanner and exploit framework
 - Android APK (previously shared on Sep 5, 2025 in Slack channel to testers via PWD protected zip)
 - Multiple predefined payloads (SSH enablement, system reboot, custom commands)
-- Support for all affected robot models (Go2, G1, H1, B2, X1)
+- Support for all affected robot models (Go2, G1, H1, B2, ...)
 
 Key components of our working exploit:
 
