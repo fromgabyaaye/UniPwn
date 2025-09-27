@@ -290,7 +290,7 @@ This research highlights several critical security principles:
 
 We initially attempted responsible disclosure with Unitree regarding this vulnerability:
 
-- **Bug found:** Bug was found at April 14, 2025 by Andreas Makris aka Bin4ry and discussed in Slack DM with Kevin Finisterre and Konstantin Severov.
+- **Bug found:** Bug was found at April 14, 2025 by Andreas Makris (Bin4ry) and discussed in Slack DM with Kevin Finisterre (h0stile) and Konstantin Severov (legion1581).
 ![Discovery of Vulnerability](images/Slack_April14.png)
 - **PoC developed:** April 25, 2025 Konstantin Severov was able to fix Andreas' wrong payload and craft a correct working payload for the injection. The first PoC was born.
 ![Discovery of Vulnerability](images/Slack_April25.png)
