@@ -5,9 +5,17 @@
 
 **Author:** Bin4ry aka Andreas Makris [andreas.makris@gmail.com]  
 **Co-Author:** h0stile aka Kevin Finisterre  
-**Contributor:** Konstantin Severov from [theroboverse](https://theroboverse.com/) helped to fix the payload for the injection and proved it with a fully working PoC :slightly_smiling_face: thanks dude, this was a critical contribution, very much appreciated!
+**Contributor:** legion1581 aka Konstantin Severov from [theroboverse](https://theroboverse.com/) helped to fix the payload for the injection and proved it with a fully working PoC :slightly_smiling_face: thanks dude, this was a critical contribution, very much appreciated!
 
 **Date:** September 20, 2025  
+
+## CVEs 
+
+[CVE-2025-35027](https://takeonme.org/cves/cve-2025-35027/)  
+[CVE-2025-60017](https://cve.org/CVERecord?id=CVE-2025-60017)  
+[CVE-2025-60250](https://cve.org/CVERecord?id=CVE-2025-60250)  
+[CVE-2025-60251](https://cve.org/CVERecord?id=CVE-2025-60251)
+
 
 Table of Contents
 =================
