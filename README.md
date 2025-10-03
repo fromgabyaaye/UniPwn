@@ -7,13 +7,6 @@
 **Co-Author:** h0stile aka Kevin Finisterre  
 **Contributor:** legion1581 aka Konstantin Severov from [theroboverse](https://theroboverse.com/) helped to fix the payload for the injection and proved it with a fully working PoC :slightly_smiling_face: thanks dude, this was a critical contribution, very much appreciated!
 
-**Cite us with:**
-> Mayoral-Vilches, V., Makris, A., & Finisterre, K. (2025).  
-> *Cybersecurity AI: Humanoid Robots as Attack Vectors.*  
-> arXiv:2509.14139 [cs.CR].  
-> [https://arxiv.org/abs/2509.14139](https://arxiv.org/abs/2509.14139)
-<br>
-
 **Date:** September 20, 2025  
 
 ## CVEs 
@@ -22,6 +15,20 @@
 [CVE-2025-60017](https://cve.org/CVERecord?id=CVE-2025-60017)  
 [CVE-2025-60250](https://cve.org/CVERecord?id=CVE-2025-60250)  
 [CVE-2025-60251](https://cve.org/CVERecord?id=CVE-2025-60251)
+
+## Paper
+The research from this repo is incorporated into a paper that presents a systematic security assessment of the Unitree G1 .  
+Link to Paper: [https://arxiv.org/abs/2509.14139](https://arxiv.org/abs/2509.14139)  
+Title: *Cybersecurity AI: Humanoid Robots as Attack Vectors*  
+Authors: *Víctor Mayoral-Vilches, Andreas Makris, Kevin Finisterre*  
+
+**Cite our Paper with:**
+> Mayoral-Vilches, V., Makris, A., & Finisterre, K. (2025).  
+> *Cybersecurity AI: Humanoid Robots as Attack Vectors.*  
+> arXiv:2509.14139 [cs.CR].  
+> [https://arxiv.org/abs/2509.14139](https://arxiv.org/abs/2509.14139)
+<br>
+
 
 
 Table of Contents
