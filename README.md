@@ -7,6 +7,13 @@
 **Co-Author:** h0stile aka Kevin Finisterre  
 **Contributor:** legion1581 aka Konstantin Severov from [theroboverse](https://theroboverse.com/) helped to fix the payload for the injection and proved it with a fully working PoC :slightly_smiling_face: thanks dude, this was a critical contribution, very much appreciated!
 
+**Cite us with:**
+> Mayoral-Vilches, V., Makris, A., & Finisterre, K. (2025).  
+> *Cybersecurity AI: Humanoid Robots as Attack Vectors.*  
+> arXiv:2509.14139 [cs.CR].  
+> [https://arxiv.org/abs/2509.14139](https://arxiv.org/abs/2509.14139)
+<br>
+
 **Date:** September 20, 2025  
 
 ## CVEs 
